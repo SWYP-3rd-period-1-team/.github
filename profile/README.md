@@ -114,7 +114,8 @@
 
 
 ## ☄️아키텍쳐
-![image](https://github.com/SWYP-3rd-period-1-team/.github/assets/58305106/5d4d18e1-525a-40d7-a216-97d7b9db6edf)
+![image 181](https://github.com/SWYP-3rd-period-1-team/.github/assets/58305106/17c1ccae-748f-41fd-b162-2f2819ae2815)
+
 
 
 
