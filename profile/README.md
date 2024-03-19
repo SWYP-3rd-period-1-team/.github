@@ -114,8 +114,10 @@
 
 
 ## ☄️아키텍쳐
-![image 181](https://github.com/SWYP-3rd-period-1-team/.github/assets/58305106/17c1ccae-748f-41fd-b162-2f2819ae2815)
 
+
+
+![직짱건강 프로젝트 아키텍쳐 최종본](https://github.com/SWYP-3rd-period-1-team/.github/assets/58305106/0fbcbde6-99a4-4c6d-a951-dd5799f2cc88)
 
 
 
